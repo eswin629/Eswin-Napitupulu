@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Samsung Galaxy S22 Ultra 5G SM-S908B EU _b156c5</name>
+   <tag></tag>
+   <elementGuidId>65860ef9-8140-469e-a281-c6ff6b29cb4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.s-item__title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='s0-28-9-0-1[0]-0-1']/ul/li/div/div[2]/a/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>80e1c645-73a8-4945-a9a0-98120e2ef958</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>s-item__title</value>
+      <webElementGuid>3c6a2d11-b841-40e7-9803-39a0c142ddb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Samsung Galaxy S22 Ultra 5G SM-S908B EU Edition OLED LCD Screen(Purple)</value>
+      <webElementGuid>8cfde7fe-2ba3-463f-a3c6-7dcb7ba700d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s0-28-9-0-1[0]-0-1&quot;)/ul[@class=&quot;b-list__items_nofooter&quot;]/li[@class=&quot;s-item s-item--large&quot;]/div[@class=&quot;s-item__wrapper clearfix&quot;]/div[@class=&quot;s-item__info clearfix&quot;]/a[@class=&quot;s-item__link&quot;]/h3[@class=&quot;s-item__title&quot;]</value>
+      <webElementGuid>e7060d15-670c-40ae-84f2-5cb6711fd683</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='s0-28-9-0-1[0]-0-1']/ul/li/div/div[2]/a/h3</value>
+      <webElementGuid>71ce5e69-5deb-44a9-95b9-d27a138cafb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Filters'])[1]/following::h3[1]</value>
+      <webElementGuid>e07548ca-b25a-4fd8-a976-88bd6daa3452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR2,623,681.66'])[1]/preceding::h3[1]</value>
+      <webElementGuid>7d510fc9-f229-47ab-bba5-827650a73c25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Free shipping'])[1]/preceding::h3[1]</value>
+      <webElementGuid>495b32c0-98af-41e4-99d2-d6dc26c9c45c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Samsung Galaxy S22 Ultra 5G SM-S908B EU Edition OLED LCD Screen(Purple)']/parent::*</value>
+      <webElementGuid>385cf91e-f242-44b8-8ff3-dfe5c5da9bcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/h3</value>
+      <webElementGuid>340750dd-a8d7-42fb-a6df-cc79f1dd91c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Samsung Galaxy S22 Ultra 5G SM-S908B EU Edition OLED LCD Screen(Purple)' or . = 'Samsung Galaxy S22 Ultra 5G SM-S908B EU Edition OLED LCD Screen(Purple)')]</value>
+      <webElementGuid>7c97d537-d82f-4e0c-8e5d-569bd6131ec2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

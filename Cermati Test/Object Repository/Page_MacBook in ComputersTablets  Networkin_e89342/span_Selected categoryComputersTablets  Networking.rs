@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Selected categoryComputersTablets  Networking</name>
+   <tag></tag>
+   <elementGuidId>3c438261-7a70-40da-b01b-bdfe6ea922d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.srp-refine__category__item > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='x-refine__group__0']/ul/li/ul/li/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2d88afff-36e5-4183-ab20-8bbff2d1b6be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selected categoryComputers/Tablets &amp; Networking</value>
+      <webElementGuid>bc3ea0cc-f9b6-4360-94d5-12f4815d90db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;x-refine__group__0&quot;)/ul[@class=&quot;srp-refine__category__list&quot;]/li[@class=&quot;srp-refine__category__item&quot;]/ul[@class=&quot;srp-refine__category__list&quot;]/li[@class=&quot;srp-refine__category__item&quot;]/span[1]</value>
+      <webElementGuid>8ff9062c-8b35-42e7-9cca-fd77ac422f35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='x-refine__group__0']/ul/li/ul/li/span</value>
+      <webElementGuid>e5130838-d6aa-4882-a8e1-5e86ef17ab13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/following::span[1]</value>
+      <webElementGuid>3f907f88-42f7-46e5-bc50-e61b5d51f66b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category'])[1]/following::span[2]</value>
+      <webElementGuid>c6c7b42a-dfca-4676-8c42-9961cb071c10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laptop &amp; Desktop Accessories'])[1]/preceding::span[2]</value>
+      <webElementGuid>8f1625b9-4cf0-41b3-be6b-2b41ebadce03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li/span</value>
+      <webElementGuid>00dcd765-3e4c-4b22-a811-f90930b1eb51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Selected categoryComputers/Tablets &amp; Networking' or . = 'Selected categoryComputers/Tablets &amp; Networking')]</value>
+      <webElementGuid>83a75329-90b5-436c-9349-151de9458c8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

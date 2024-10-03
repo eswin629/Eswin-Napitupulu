@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cell Phones  Smartphones</name>
+   <tag></tag>
+   <elementGuidId>786730ff-93ca-40ea-b120-3f475ee0ba70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(3) > a.b-textlink.b-textlink--parent</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='s0-17-12_2-0-1[0]-0-0']/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ccf5698d-6d96-4d3c-8b06-02981cd997a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-track</name>
+      <type>Main</type>
+      <value>{&quot;eventFamily&quot;:&quot;LST&quot;,&quot;eventAction&quot;:&quot;ACTN&quot;,&quot;actionKind&quot;:&quot;NAVSRC&quot;,&quot;operationId&quot;:&quot;2489527&quot;,&quot;flushImmediately&quot;:false,&quot;eventProperty&quot;:{&quot;parentrq&quot;:&quot;5162a6f81920a0f0e1898860fff63132&quot;,&quot;pageci&quot;:&quot;4188116c-08b1-49b2-bf21-8973ce53b99a&quot;,&quot;moduledtl&quot;:&quot;mi:4337|iid:1|li:9750|luid:26|c:26|uxComponentGroup:CATEGORY_NAV_STRUCTURED_VERTICAL_GROUP|level:2&quot;}}</value>
+      <webElementGuid>4faca7a4-1051-428f-9ede-6c5a12179dfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>_sp</name>
+      <type>Main</type>
+      <value>p2489527.m4337.l9750.c26</value>
+      <webElementGuid>3f65d294-a630-442f-b360-1ebd2bf1bb15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>b-textlink b-textlink--parent</value>
+      <webElementGuid>d277a46e-8b19-4536-bd1d-f4d8c7331901</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.ebay.com/b/Cell-Phones-Smartphones/9355/bn_320094</value>
+      <webElementGuid>6d819f63-cf99-4b1d-8f7f-0d5bf9380064</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cell Phones &amp; Smartphones</value>
+      <webElementGuid>cd46dda0-d7b4-4f2a-88f6-106219191873</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s0-17-12_2-0-1[0]-0-0&quot;)/ul[1]/li[3]/a[@class=&quot;b-textlink b-textlink--parent&quot;]</value>
+      <webElementGuid>0a48d50f-3eb2-4fe6-b288-9058c2766ee9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='s0-17-12_2-0-1[0]-0-0']/ul/li[3]/a</value>
+      <webElementGuid>ebd3d9c1-3370-42b9-95cf-697bacff12d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cell Phones &amp; Smartphones')]</value>
+      <webElementGuid>470d0743-0eb4-4b4f-b5e9-e19117e4fa9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transmitters'])[1]/following::a[1]</value>
+      <webElementGuid>63b42447-34a7-4d73-94aa-72256ccc48a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Styluses'])[1]/following::a[2]</value>
+      <webElementGuid>a0336a75-38ff-4301-adff-bcda29ad5bff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Display Phones'])[1]/preceding::a[1]</value>
+      <webElementGuid>d01fd2d5-8b46-480a-b326-7f89df34c5d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mixed Lots'])[1]/preceding::a[2]</value>
+      <webElementGuid>c74f2dfa-b2d8-432e-a047-63bc3e862a86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cell Phones &amp; Smartphones']/parent::*</value>
+      <webElementGuid>6e0da7cf-4d1c-4b31-8643-199b5a027958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.ebay.com/b/Cell-Phones-Smartphones/9355/bn_320094')]</value>
+      <webElementGuid>98b37f95-73e3-46e0-aebe-abcb7d6ef7a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/ul/li[3]/a</value>
+      <webElementGuid>66f9fcc7-d6bf-4705-b867-be55c579be4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.ebay.com/b/Cell-Phones-Smartphones/9355/bn_320094' and (text() = 'Cell Phones &amp; Smartphones' or . = 'Cell Phones &amp; Smartphones')]</value>
+      <webElementGuid>b20e8103-3d8b-4f1d-a083-80a0062c4946</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_All Filters</name>
+   <tag></tag>
+   <elementGuidId>4d5acb1f-8154-4642-991d-1b6f0ba26e69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.brm__all-filters.fake-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[21]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ca4bd4f8-6771-461a-9ac3-24dbdf828566</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7941e298-f66e-49a6-8eea-f09b468c308a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>All Filters</value>
+      <webElementGuid>02d14904-eb09-4a2b-b53c-41faa8f70f1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-track</name>
+      <type>Main</type>
+      <value>{&quot;eventFamily&quot;:&quot;LST&quot;,&quot;eventAction&quot;:&quot;ACTN&quot;,&quot;actionKind&quot;:&quot;SHOWDIALOG&quot;,&quot;operationId&quot;:&quot;2489527&quot;,&quot;flushImmediately&quot;:false,&quot;eventProperty&quot;:{&quot;moduledtl&quot;:&quot;mi%3A4118%7Ciid%3A1%7Cli%3A8171%7Cluid%3A119%7C&quot;,&quot;pageci&quot;:&quot;6aa376d4-5084-4c7e-b8a7-cf1e8ff57fae&quot;,&quot;parentrq&quot;:&quot;5163100e1920aab3b9c08618fff6c6a6&quot;}}</value>
+      <webElementGuid>c0a33655-405d-4212-9395-d4740b9045e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>brm__all-filters fake-link</value>
+      <webElementGuid>1c137f33-fb2a-4ae7-a939-63fac9aff160</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All Filters</value>
+      <webElementGuid>b42fbae5-9269-4202-959a-c6d641a2a539</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s0-28_2-9-0-1[0]-0-1&quot;)/section[@class=&quot;brm b-refine-menu&quot;]/ul[@class=&quot;brm__list&quot;]/li[@class=&quot;brm__item&quot;]/button[@class=&quot;brm__all-filters fake-link&quot;]</value>
+      <webElementGuid>9d46d2e3-665d-4146-8b1f-39d8fafdaece</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[21]</value>
+      <webElementGuid>e794e238-ae98-4737-9880-d844699fa5e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='s0-28_2-9-0-1[0]-0-1']/section/ul/li[9]/button</value>
+      <webElementGuid>12f043ad-81ad-4e01-8361-562812d15565</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy It Now'])[2]/following::button[1]</value>
+      <webElementGuid>983feb7b-32e9-4cda-8057-e0d38d96438e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auction'])[2]/following::button[1]</value>
+      <webElementGuid>00aed6db-c2b6-4519-8cea-c615dbfa660f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Samsung Galaxy S23+ 256GB Storage 8GB RAM Smartphone Lavender Used Working'])[1]/preceding::button[1]</value>
+      <webElementGuid>2756313a-8c6f-46a6-b400-98e2a0d00985</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR8,047,790.77'])[1]/preceding::button[1]</value>
+      <webElementGuid>200b4109-2a17-445b-9d76-d9488b481471</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='All Filters']/parent::*</value>
+      <webElementGuid>a62f886c-cd80-4558-b9b1-390ed534353e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/button</value>
+      <webElementGuid>46d29030-f64d-412b-9b6e-4ad5824f00a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'All Filters' or . = 'All Filters')]</value>
+      <webElementGuid>a0b61742-22ca-472b-8760-8ade0d1da9c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

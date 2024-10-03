@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cell phones  accessories</name>
+   <tag></tag>
+   <elementGuidId>c250b1bb-525f-45e9-9127-b57dd459a0c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul:nth-of-type(2) > li:nth-of-type(4) > a.scnd</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='gh-sbc']/tbody/tr/td/ul[2]/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>493eca1b-cf57-470f-8c39-36c18de1b2b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>scnd</value>
+      <webElementGuid>fa6c4bc7-78e0-4fd7-84ec-b4897e3f205c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.ebay.com/b/Cell-Phones-Smart-Watches-Accessories/15032/bn_1865441</value>
+      <webElementGuid>daa11026-f1c0-4908-a03f-c9f026b76958</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>_sp</name>
+      <type>Main</type>
+      <value>m570.l3652</value>
+      <webElementGuid>98313f4d-63d2-47c4-801f-d1a2f4b1fb7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cell phones &amp; accessories</value>
+      <webElementGuid>00b50c3a-bbf2-4f67-9206-bdc1bf6548bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gh-sbc&quot;)/tbody[1]/tr[1]/td[1]/ul[2]/li[4]/a[@class=&quot;scnd&quot;]</value>
+      <webElementGuid>9e8954ab-d61b-49ec-a836-00d8fb9d4221</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='gh-sbc']/tbody/tr/td/ul[2]/li[4]/a</value>
+      <webElementGuid>f5f71dc8-50cf-487b-91a4-7c9ab720bb92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cell phones &amp; accessories')]</value>
+      <webElementGuid>3fd7ddb8-6c2c-482e-a322-a6a07ec0b887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TV, audio &amp; surveillance'])[1]/following::a[1]</value>
+      <webElementGuid>996657b8-f8ac-4f39-8464-d84d8c2d53ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cameras &amp; photo'])[1]/following::a[2]</value>
+      <webElementGuid>8577393a-4829-4b9f-9836-de8db64e5808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fashion'])[1]/preceding::a[1]</value>
+      <webElementGuid>a86ec96d-6165-426d-b5ff-f50a71c34022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Women'])[1]/preceding::a[2]</value>
+      <webElementGuid>6b3b2677-6cf6-45e5-b5fd-df4cd1c1b000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cell phones &amp; accessories']/parent::*</value>
+      <webElementGuid>b8d82cea-3a96-4498-9c46-af10b6f3098d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.ebay.com/b/Cell-Phones-Smart-Watches-Accessories/15032/bn_1865441')]</value>
+      <webElementGuid>b86cb89f-5f5a-4950-ba91-5dc7eed2a3da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li[4]/a</value>
+      <webElementGuid>20a6df4b-707c-4b3c-91c2-7d961f52e293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.ebay.com/b/Cell-Phones-Smart-Watches-Accessories/15032/bn_1865441' and (text() = 'Cell phones &amp; accessories' or . = 'Cell phones &amp; accessories')]</value>
+      <webElementGuid>dda5698e-b918-4397-8489-04a3c307a5df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
